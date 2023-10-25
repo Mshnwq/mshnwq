@@ -2,7 +2,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mshnwq&layout=donut&show_icons=true&theme=chartreuse-dark&hide=qml,html,jupyter%20notebook,swift,kotlin)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Website](https://img.shields.io/badge/Website-76ff03?style=for-the-badge&logo=matrix&labelColor=black&logoColor=76ff03)](https://cv.mshnwq.com)
+[![Mshnwq.com](https://img.shields.io/badge/Mshnwq.com-76ff03?style=for-the-badge&logo=matrix&labelColor=black&logoColor=76ff03)](https://mshnwq.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:hayan@mshnwq.com)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&)](https://www.linkedin.com/in/hayan-al-machnouk/)
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)]()
