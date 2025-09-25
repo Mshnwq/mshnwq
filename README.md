@@ -1,7 +1,7 @@
 <div>
   <tr>
     <td>
-      <img src="https://github-readme-stats-one-xi-25.vercel.app/api/top-langs/?username=mshnwq&hide=html,javascript,css,scss,cmake,makefile,stata,processing,verilog,c,awk,jinja,mathematica&layout=compact&show_icons=true&langs_count=10&theme=chartreuse-dark&border_color=76ff03&bg_color=000000"/>
+      <img src="https://github-readme-stats-one-xi-25.vercel.app/api/top-langs/?username=mshnwq&hide=html,javascript,css,scss,cmake,makefile,vim,stata,processing,verilog,c,awk,jinja,mathematica&layout=compact&show_icons=true&langs_count=10&theme=chartreuse-dark&border_color=76ff03&bg_color=000000"/>
     </td>
     <td>
       <img src="https://github-readme-stats-one-xi-25.vercel.app/api?username=mshnwq&count_private=true&show_icons=true&show=prs_merged&rank_icon=percentile&theme=chartreuse-dark&border_color=76ff03&bg_color=000000"/>
@@ -15,4 +15,5 @@
 [![DockerHub](https://img.shields.io/badge/DockerHub-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/mshnwq)
 [![Bitcoin](https://img.shields.io/badge/Bitcoin-FF9900?style=for-the-badge&logo=bitcoin&logoColor=white)]()
 [![Monero](https://img.shields.io/badge/Monero-FF6600?style=for-the-badge&labelColor=4C4C4C&logo=monero&logoColor=white)]()
+
 
